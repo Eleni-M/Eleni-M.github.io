@@ -1,22 +1,14 @@
 *{
 	font-family: Georgia;
-	background: Green;
+	background: green;
 }
 
 h1 {
 	font-family: Serif;
+	color: white;
 }
 
-
-
-body {
-/* background: url("https://365daysofbeinghuman.files.wordpress.com/2016/09/tranzalpine-express-nz.jpg?w=640")
-{size: cover;} */
-background: Green;
+p {
+	color: white;
 }
-
-h1
-  {color:white;}}
-p
-{color:white;}
 
