@@ -1,11 +1,6 @@
 *{
-	font-family: Serif;
 	background: green; 
 
-h1 {
-	font-family: sans-serif;
-	color: white;
-}
 
 p {
 	color: white;
@@ -15,3 +10,7 @@ ul {
 	color: white;
 }
 
+h1 {
+	font-family:sans-serif;
+	color:white;
+}
